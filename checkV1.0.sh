@@ -1,4 +1,4 @@
-username = (zaid_html)
+username='zaid_html'
 trap 'printf "\n";partial;exit 1' 2
 banner() {
 printf "Instagram user checker By IG:ZAID_HTML"
